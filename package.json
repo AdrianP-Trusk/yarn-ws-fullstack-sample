@@ -1,0 +1,10 @@
+{
+  "name": "fullstack-sample",
+  "version": "0.1.0",
+  "description": "A sample repository, usign yarn workspaces and best practices to create and maintain a full stack infrastructure.",
+  "main": "index.js",
+  "repository": "https://github.com/AdrianP-Trusk/yarn-ws-fullstack-sample.git",
+  "author": "AdrianP-Trusk",
+  "license": "MIT",
+  "private": false
+}
